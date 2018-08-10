@@ -1,0 +1,10 @@
+D:\For Interview\FirstWindowsFormApp\FirstWindowsFormApp\bin\Debug\FirstWindowsFormApp.exe.config
+D:\For Interview\FirstWindowsFormApp\FirstWindowsFormApp\bin\Debug\FirstWindowsFormApp.exe
+D:\For Interview\FirstWindowsFormApp\FirstWindowsFormApp\bin\Debug\FirstWindowsFormApp.pdb
+D:\For Interview\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.csprojAssemblyReference.cache
+D:\For Interview\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.Econtact.resources
+D:\For Interview\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.Properties.Resources.resources
+D:\For Interview\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.csproj.GenerateResource.cache
+D:\For Interview\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.csproj.CoreCompileInputs.cache
+D:\For Interview\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.exe
+D:\For Interview\FirstWindowsFormApp\FirstWindowsFormApp\obj\Debug\FirstWindowsFormApp.pdb
